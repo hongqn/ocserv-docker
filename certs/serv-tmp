@@ -1,5 +1,5 @@
-cn = "yourdomainname.com"
-organization = "Your desired orgnization name"
+cn = "hongqn vpn"
+organization = "hongqn.com"
 serial = 2
 expiration_days = 3650
 encryption_key
